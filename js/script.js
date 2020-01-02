@@ -1,12 +1,7 @@
-// function refresh() {
 
-//    location.reload(); 
-
-// }
-
-$(window).resize(function() {
-  location.reload();
-});
+// $(window).resize(function() {
+//   location.reload();
+// });
 
 
 
